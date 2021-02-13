@@ -8,3 +8,10 @@ It can only be sent from Gmail, Outlook and hotmail e-mail addresses. To send e-
 
 The Excel file must be in the same directory as the app.py file. Finally, you need to enter the number in which column the e-mail addresses are in the excel file.
 
+## As an example, excel can be as follows.
+
+![Excel](excel.PNG)
+
+## The program works as in the picture below.
+
+![comandLine](comandLine.PNG)
